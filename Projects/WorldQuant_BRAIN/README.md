@@ -19,3 +19,4 @@ I develop alphas using a systematic 4-step process:
 4. **Validation:** Testing for decay and fitness across different market regimes.
 
 *Note: In accordance with WorldQuant BRAIN IP guidelines, specific mathematical expressions are not disclosed.*
+![IQC Results](./IQC_ALPHA_SUBMISSIONS.png)
